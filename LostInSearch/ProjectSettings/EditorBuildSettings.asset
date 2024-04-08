@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SplashScene.unity
     guid: 41a05ac52c8e611469d4f10d8c0c4f0c
+  - enabled: 1
+    path: Assets/Scenes/Birthday.unity
+    guid: 5409e417d6ab28a409707d486c3496a7
   m_configObjects: {}
